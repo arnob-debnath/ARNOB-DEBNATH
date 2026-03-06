@@ -1,8 +1,19 @@
-
-<h1 align="center">Hola 👋, I'm Arnob Debnath</h1>
+<br> </br>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F72D&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=3000&color=00F72D&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile" />
+</p><br> </br><br> </br>
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Today-Monday,06%20March%202026-blue?style=for-the-badge"/>
 </p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=5000&color=00F72D&center=true&vCenter=true&width=800&lines=Hola+👋,+I'm+Arnob+Debnath" />
+</p>
+
+  
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student&color=FFD700&f&size=20&pause=4000&color=00F72D&center=true&vCenter=true&width=500" />
@@ -15,12 +26,8 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Learning+AI+Data+Science;color=00F72D&lines=Future+AI+Engineer;Welcome+to+my+GitHub+Profile" />
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F72D&center=true&vCenter=true&width=500&lines=Future+AI+Engineer;Welcome+to+my+GitHub+Profile" />
-</p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=3000&color=00F72D&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile" />
-</p>
+
 
 
 ---
@@ -42,18 +49,13 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arnob-debnath&show_icons=true&theme=tokyonight" />
-</p>
-
-
 ### 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnob-debnath&theme=tokyo-night" />
 </p>
+
+---
 
 ### 🌐 Connect With Me
 
