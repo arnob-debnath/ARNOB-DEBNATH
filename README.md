@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=200&section=header&text=Arnob%20Debnath&fontSize=40&fontColor=ffffff"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Arnob Debnath</h1>
 
 <h3 align="center">Computer Science Student | Learning AI & Data Science</h3>
